@@ -1,4 +1,4 @@
-# AI-Virtual-Painter
+# AI Virtua Painter
 AI virtual painter made using hand tracking module from mediapipe and opencv. 
 
 
